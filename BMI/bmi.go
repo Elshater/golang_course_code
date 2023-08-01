@@ -7,7 +7,7 @@ func main() {
 	fmt.Println("BMI Calculator")
 fmt.Println("---------------------------------")
 	//prompt for user input
-	fmt.Print("Enter your weght in (kg): ")
+	fmt.Println("Enter your weght in (kg): ")
 	fmt.Print("Enter your height in (m): ")
 
 	//saving user inputs to variables
